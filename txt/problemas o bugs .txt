@@ -10,4 +10,4 @@ ESTATUS : -PENDIENTE  -SIN SOLUCION O -RESUELTO
 ->->->->->->->->->->->->EJEMPLO ->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->
 
 #Comentario Juan:
-    Nice
+    Nice ola
