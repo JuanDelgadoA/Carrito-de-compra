@@ -1,39 +1,24 @@
-// aca podemos tratar los puntos a tratar en el proyecto y
+// aca podemos tratar los puntos a tratar en el proyecto,preguntas y
  cuando los terminemos los quitamos de aqui :)
-
+#Se les olvida y jamás lo quitan* XDD
 
 *nos falta una : 
 
 -barra de busqueda 
+
 -un login
+#Para el usuario?, es necesario?, no le veo mucha utilidad
+
 -hacer una base de datos(aprender como conectarme o conectarnos a una base de datos remota ya sea tuya o mia ) 
+#Creo que sé hacer eso sólo necestiamos la id, mañana veo eso
+
 -documentar o mejorar el codigo para no hacernos bolas xd 
+#Lo puedo limpiar, perdonme usted xddd pero en el camino tuve que probar y cambiar varias cosas
+
 - conectar el login con la base de datos 
+
 - concetar la barra de busqueda con la base de datos 
-- crea las platillas para los productos 
+
+- crea las plantillas para los productos 
+
 -hacer que las platillas puedan crearse  y eliminarser con una ventana de administrador para que pueda hacerlo el cliente 
-
--hacer una platilla de la previsualizacion de los productos ejemplo : (ves que esta como los cuadritos donde ves el producto y el 
-precio cuando le picas pues te mando a ver los detalles del producto pues a eso me refiero con eso xd ) y tiene que ser
-platilla para que el cliente no dependa del nosotros para estar agregando producto por producto xd 
-
--ver lo de carrito de compras 
--como funciona lo de la pasarela de pagos 
--como subir el proyecto a un servidor externo 
-- ver sisitemas de proteccion de usuario lo de htttp y eso 
-- lo de como saber que usuario esta pidiendo la informacion algo relaciona con la ip segun recuerdo pero igual a investigar xd 
-
-y ver con que empezamo y parte las cosas o problemas que salgas 
-
-
-
-
-
-
-
-
-
-
-
-cosas por agragar JUAN : ( para que no pete por los cambios xd ) 
-
