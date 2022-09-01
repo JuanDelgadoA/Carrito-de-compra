@@ -1,0 +1,10 @@
+// en esta pagina poner los problemas o bugs del lo que estemos haciendo por si 
+podemos ayudarnos el agun aspecto por ejemplo : 
+
+->->->->->->->->->->->->->->->->->->->->->->->->EJEMPLO ->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->
+31/08/2022
+BUG : problema con la barra de busqueda no se puede conectar a la base de datos 
+DIRECCION DEL BUG : (respecto a la carpetaz que estamos trabajando ) en :  HTML/ index.html  linea 25-56 
+ESTATUS : -PENDIENTE  -SIN SOLUCION O -RESUELTO 
+
+->->->->->->->->->->->->EJEMPLO ->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->
