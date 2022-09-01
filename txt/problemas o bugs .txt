@@ -8,3 +8,6 @@ DIRECCION DEL BUG : (respecto a la carpetaz que estamos trabajando ) en :  HTML/
 ESTATUS : -PENDIENTE  -SIN SOLUCION O -RESUELTO 
 
 ->->->->->->->->->->->->EJEMPLO ->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->->
+
+#Comentario Juan:
+    Nice
