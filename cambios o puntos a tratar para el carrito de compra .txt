@@ -1,14 +1,35 @@
-// aca podemos tratar los puntos a tratar en el proyecto y
+// aca podemos tratar los puntos a tratar en el proyecto,preguntas y
  cuando los terminemos los quitamos de aqui :)
-
+#Se les olvida y jamás lo quitan* XDD
 
 *nos falta una : 
 
 -barra de busqueda 
+
 -un login
+#Para el usuario?, es necesario?, no le veo mucha utilidad
+
 -hacer una base de datos(aprender como conectarme o conectarnos a una base de datos remota ya sea tuya o mia ) 
+#Creo que sé hacer eso sólo necestiamos la id, mañana veo eso
+
 -documentar o mejorar el codigo para no hacernos bolas xd 
+#Lo puedo limpiar, perdonme usted xddd pero en el camino tuve que probar y cambiar varias cosas
+
 - conectar el login con la base de datos 
+
 - concetar la barra de busqueda con la base de datos 
-- crea las platillas para los productos 
+
+- crea las plantillas para los productos 
+
 -hacer que las platillas puedan crearse  y eliminarser con una ventana de administrador para que pueda hacerlo el cliente 
+
+-Dividir los productos en categorias 
+
+-Hacer una wea abajo para pasar de pagina de producto a la siguiente
+por que creo que ese diseño le vendría bn 
+
+-Buscar mejores imagenes para el banner rotatorio 
+
+-Crear un formulario de pago (No sé si tenga una cuenta de paypal pero necesitamos una para hacer pruebas, por que el hacerlo es medianamente fácil)
+
+-Un carrito de compras pero este puede ir al final 
