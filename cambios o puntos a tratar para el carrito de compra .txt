@@ -13,6 +13,9 @@
 - crea las platillas para los productos 
 -hacer que las platillas puedan crearse  y eliminarser con una ventana de administrador para que pueda hacerlo el cliente 
 
+-hacer una platilla de la previsualizacion de los productos ejemplo : (ves que esta como los cuadritos donde ves el producto y el 
+precio cuando le picas pues te mando a ver los detalles del producto pues a eso me refiero con eso xd )
+
 
 
 
