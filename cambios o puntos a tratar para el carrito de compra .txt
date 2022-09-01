@@ -2,4 +2,13 @@
  cuando los terminemos los quitamos de aqui :)
 
 
-jalo xd?
+*nos falta una : 
+
+-barra de busqueda 
+-un login
+-hacer una base de datos(aprender como conectarme o conectarnos a una base de datos remota ya sea tuya o mia ) 
+-documentar o mejorar el codigo para no hacernos bolas xd 
+- conectar el login con la base de datos 
+- concetar la barra de busqueda con la base de datos 
+- crea las platillas para los productos 
+-hacer que las platillas puedan crearse  y eliminarser con una ventana de administrador para que pueda hacerlo el cliente 
