@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/index.css">
     <title></title>
 </head>
 <body>
@@ -15,7 +16,7 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02" style="margin-left:100px;">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Inicio</a>
@@ -28,8 +29,8 @@
         </li>
       </ul>
       <form class="d-flex" role="search">
-        <input class="form-control me-5" type="search" placeholder=" Buscar ... " aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Buscar</button>
+        <input class="form-control me-3" type="search" placeholder=" Buscar ... " aria-label="Search" style="width: 400px;" >
+        <button class="btn btn-outline-success" type="submit" style="margin-right:200px;">Buscar</button>
       </form>
     </div>
   </div>
