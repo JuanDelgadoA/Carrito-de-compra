@@ -14,3 +14,8 @@ ESTATUS : -PENDIENTE  -SIN SOLUCION O -RESUELTO
 
 #Otro comentario 
 
+
+#01/09/22 comentario bryan 
+bueno señor juan le avance un poco en el archivo que se llama index.php perdon si pete algunas cosas suyas 
+intente poner arria el link a style.css y con eso deberia volver todo a su orden comun creo , hice un poco de la 
+barra de busqueda pero aun no esta conectada eso otro dia , tambien avance un poco en el carrusel esta bugeado pero ahi esta XD
